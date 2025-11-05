@@ -30,3 +30,9 @@ The pipeline processes an input RGB image to produce a final grade.
 
 * **Stage 5: Classification:**
     * The final $D_M^2$ score is compared to preset thresholds to classify the nut (e.g., "Good," "Minor Defect," "Reject") .
+ 
+  This project is a synopsis for the *Computer Vision Lab (CSE 3144)*, detailing a system for the automated quality inspection of cashew nuts.
+
+*Submitted By:*
+- Sakshi Shivaprasad  
+- Venkata Aditi Modali
